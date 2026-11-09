@@ -5,5 +5,6 @@ Sitio del desarrollador de Calendario de turnos, servido con GitHub Pages desde 
 - `/app-ads.txt`: autorización AdMob. Debe quedar en la raíz del dominio.
 - `/privacy/`: política de privacidad enlazada desde Google Play y desde la app.
 - `/`: página de inicio.
+- `/printcost-3d/privacy/`: política de privacidad de PrintCost 3D (copia maestra en el proyecto de la app: `docs/privacy/index.html`).
 
 La copia maestra de la política está en el proyecto de la app (`publication/privacy/index.html`). Al cambiarla, copiarla aquí y volver a publicar.
